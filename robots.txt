@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://avisingh18.github.io/avi-esport-website/sitemap.xml
